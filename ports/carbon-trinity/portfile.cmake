@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL git@github.com:carbonengine/trinity.git
-  REF 37815cc9337ef97ed2d178e472a65cd1e2d0db4f
+  REF 413a7e2627d86cdca243528328d97f6e45ea1af1
 )
 
 # Setup the features
