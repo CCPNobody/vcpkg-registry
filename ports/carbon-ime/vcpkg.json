@@ -1,6 +1,6 @@
 {
   "name": "carbon-ime",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Provides native input method editor integration for Carbon projects.",
   "homepage": "https://github.com/carbonengine/ime",
   "license": "MIT",
