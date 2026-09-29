@@ -1,7 +1,7 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
   URL git@github.com:carbonengine/ime.git
-  REF bb50872456b55a51816d467b61508f01538c14ec
+  REF 281c8b3fb4171ad64ce56dd07a31a440291fb5cf
   HEAD_REF main
 )
 
